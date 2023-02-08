@@ -17,3 +17,4 @@
 [<img align="left" alt="Vera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/vera-lestina-b2a039236/
+ 

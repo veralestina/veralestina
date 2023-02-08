@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**veralestina/veralestina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Vera, an <a href="https://www.linkedin.com/in/vera-lestina-b2a039236/">IT Professional</a>☺</h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/veralestina/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/veralestina/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/veralestina/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/veralestina/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/veralestina/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Vera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/vera-lestina-b2a039236/

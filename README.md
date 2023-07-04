@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/veralestina/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/veralestina/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Cirtual Machine within Microsoft Azure](https://github.com/veralestina/creating-vm)
+  - [Creating a Virtual Machine within Microsoft Azure](https://github.com/veralestina/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/veralestina/configure-ad)
   
 

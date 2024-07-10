@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Vera, an <a href="https://www.linkedin.com/in/vera-lestina-b2a039236/">Cyber Security Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology and Cyber Security Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/veralestina/osticket-prereqs)

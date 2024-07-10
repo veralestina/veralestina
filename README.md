@@ -14,7 +14,7 @@
 - <b>Active Directory</b>
   - [Setup Active Directory](https://github.com/veralestina/Active-Directory)
 - <b>Vulnerability Management<b/>
-  -[Vulnerability Management Lab](https://github.com/veralestina/Vulnerability-Management-Lab)
+  - [Vulnerability Management Lab](https://github.com/veralestina/Vulnerability-Management-Lab)
 
 <h2>🤳Connect with me:</h2>
 

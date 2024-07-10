@@ -11,7 +11,10 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine within Microsoft Azure](https://github.com/veralestina/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/veralestina/configure-ad)
-  
+- <b>Active Directory</b>
+  - [Setup Active Directory](https://github.com/veralestina/Active-Directory)
+- <b>Vulnerability Management<b/>
+  -[Vulnerability Management Lab](https://github.com/veralestina/Vulnerability-Management-Lab)
 
 <h2>🤳Connect with me:</h2>
 

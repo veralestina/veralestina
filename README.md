@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Vera, an <a href="https://www.linkedin.com/in/vera-lestina-b2a039236/">Cyber Security Professional</a>☺</h1>
+<h1>Hi, I'm Vera, a <a href="https://www.linkedin.com/in/vera-lestina-b2a039236/">Cyber Security Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology and Cyber Security Projects:</h2>
 
